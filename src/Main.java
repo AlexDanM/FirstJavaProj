@@ -7,7 +7,7 @@ public class Main {
 
         String model = "golf";
         String brand = "vw";
-        int year = 2015;
+        int year = 2017;
         int mileage = 28172626;
         String color = "albastru";
 
